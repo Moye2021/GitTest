@@ -1,0 +1,2 @@
+to jest zmiana na feature branchu
+
